@@ -6,9 +6,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node genius.js"
   },
-  "engines": {
-    "node": "10.16.0"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
