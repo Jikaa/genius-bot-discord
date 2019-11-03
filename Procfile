@@ -1,1 +1,1 @@
-worker: node genius.js
+web: node genius.js
