@@ -1,20 +1,8 @@
-var express = require("express");
-var app = express();
- 
-app.get('/', function(req, res) {
-  res.send('Every day in every way I\'m serving more requests');
-});
- 
-var port = Number(process.env.PORT || 5000);
-app.listen(port, function() {
-  console.log("Listening on " + port);
-});
-
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
 
-const prefix = '_';
+const prefix = process.env.prefix;
 const ownersID = ['223839985751556096', '168332990319951872'];
 const active = new Map();
 let sleepMode = false;
@@ -133,4 +121,4 @@ client.on('ready', () => {
 
 });
 
-client.login('NTg4MDExOTI0NTAzOTIwNjUz.XP--QA.7Y26BUPQPmm4eJaX3Kd4l2mWCt0');
+client.login(process.env.TOKEN);
