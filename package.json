@@ -24,6 +24,5 @@
     "ytdl-core": "^0.29.7",
     "ytpl": "^0.1.15"
   },
-  "devDependencies": {},
   "description": ""
 }
