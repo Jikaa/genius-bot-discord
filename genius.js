@@ -151,4 +151,34 @@ client.on('guildCreate', (guild) => {
     client.user.setActivity(`${client.guilds.size} serveurs \| _help`, {type: 'WATCHING'});
 })
 
+client.on('guildDelete', (guild) => {
+
+    let Dat = new Date();
+    if (Dat.getDate() < 10) {day = `0${Dat.getDate()}`;}
+    else {day = Dat.getDate();}
+    if (Dat.getMonth()+1 < 10) {month = `0${Dat.getMonth()+1}`;}
+    else {month = Dat.getMonth()+1;}
+    if (Dat.getHours() < 10) {hours = `0${Dat.getHours()}`;}
+    else {hours = Dat.getHours();}
+    if (Dat.getMinutes() < 10) {minutes = `0${Dat.getMinutes()}`;}
+    else {minutes = Dat.getMinutes();}
+    if (Dat.getSeconds() < 10) {secondes = `0${Dat.getSeconds()}`;}
+    else {secondes = Dat.getSeconds();}
+    let logg = `${day}/${month}/${Dat.getFullYear()} ${hours}:${minutes}:${secondes} : ${client.user.username} a quitté le serveur ${guild.name}`;
+
+    console.log(`${logg}`);
+    fs.stat('log.txt', (err) => {
+        if (err) fs.writeFile('log.txt', logg, (err) => {
+            if (err) throw err;
+        });
+        else {
+            fs.appendFile('log.txt', `\n${logg}`, (err) => {
+                if (err) throw err;
+            });
+        }
+    });
+
+    client.user.setActivity(`${client.guilds.size} serveurs \| _help`, {type: 'WATCHING'});
+})
+
 client.login(process.env.TOKEN);
