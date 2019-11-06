@@ -5,6 +5,8 @@ var giphy = require('giphy-api')({
 
 exports.run = (client, msg, args, ops) => {
 
+    if (!args[0]) return msg.channel.send("Utilisation de la commande gif ```gif <recherche mots clés Giphy.com>```");
+
     giphy.search({
         q: `${args}`,
         limit: 20,
