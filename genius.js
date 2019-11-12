@@ -70,7 +70,7 @@ client.on('message', msg => {
         } else {
             msg.channel.send(`Précisez une commande`);
         }
-        //console.log(err.stack);
+        console.log(err.stack);
         //console.log(`[ERREUR] ${Date} : Réponse ${msg.content} à ${msg.author.tag}`);
         logg = `[ERREUR] ${Datee} : Réponse ${msg.content} à ${msg.author.tag}`;
 

@@ -3055,3 +3055,35 @@
 03/11/2019 20:55:12 : Réponse _play lalala à Jimmy#3805
 03/11/2019 21:00:57 : Réponse _logout à Jimmy#3805
 03/11/2019 21:00:57 : Bot déconnecté
+13/11/2019 00:32:28 : Bot prêt
+[ERREUR] 13/11/2019 00:32:32 : Réponse _meme à Dijmy#3805
+13/11/2019 00:33:21 : Réponse _logout à Dijmy#3805
+13/11/2019 00:33:21 : Bot déconnecté
+13/11/2019 00:33:24 : Bot prêt
+[ERREUR] 13/11/2019 00:33:31 : Réponse _meme à Dijmy#3805
+13/11/2019 00:36:12 : Bot prêt
+13/11/2019 00:37:25 : Bot prêt
+13/11/2019 00:37:39 : Bot prêt
+13/11/2019 00:37:43 : Réponse _meme à Dijmy#3805
+13/11/2019 00:37:48 : Réponse _meme à Dijmy#3805
+13/11/2019 00:37:53 : Réponse _meme à Dijmy#3805
+13/11/2019 00:37:56 : Réponse _meme à Dijmy#3805
+13/11/2019 00:37:59 : Réponse _meme à Dijmy#3805
+13/11/2019 00:40:04 : Réponse _meme à Dijmy#3805
+13/11/2019 00:41:11 : Bot prêt
+13/11/2019 00:41:45 : Bot prêt
+13/11/2019 00:41:47 : Réponse _meme à Dijmy#3805
+[ERREUR] 13/11/2019 00:42:52 : Réponse _meem à Dijmy#3805
+13/11/2019 00:42:57 : Réponse _meme à Dijmy#3805
+13/11/2019 00:47:59 : Réponse _meme à Dijmy#3805
+13/11/2019 00:48:07 : Réponse _meme à Dijmy#3805
+13/11/2019 00:48:49 : Réponse _meme à Dijmy#3805
+13/11/2019 00:48:55 : Réponse _meme à Dijmy#3805
+13/11/2019 00:48:58 : Réponse _meme à Dijmy#3805
+13/11/2019 00:49:03 : Réponse _meme à Dijmy#3805
+13/11/2019 00:49:06 : Réponse _meme à Dijmy#3805
+13/11/2019 00:49:10 : Réponse _meme à Dijmy#3805
+13/11/2019 00:50:39 : Réponse _help à Dijmy#3805
+13/11/2019 00:51:00 : Réponse _meme à Dijmy#3805
+13/11/2019 00:51:47 : Réponse _logout à Dijmy#3805
+13/11/2019 00:51:47 : Bot déconnecté
