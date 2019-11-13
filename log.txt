@@ -3087,3 +3087,42 @@
 13/11/2019 00:51:00 : Réponse _meme à Dijmy#3805
 13/11/2019 00:51:47 : Réponse _logout à Dijmy#3805
 13/11/2019 00:51:47 : Bot déconnecté
+13/11/2019 16:56:35 : Bot prêt
+13/11/2019 16:57:18 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:04:25 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:04:51 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:04:59 : Réponse _logout à Dijmy#3805
+13/11/2019 17:04:59 : Bot déconnecté
+13/11/2019 17:05:43 : Bot prêt
+[ERREUR] 13/11/2019 17:05:53 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:06:27 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:10:46 : Bot prêt
+13/11/2019 17:10:54 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:12:47 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:15:10 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:15:31 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:16:02 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:16:53 : Réponse _logout à Dijmy#3805
+13/11/2019 17:16:53 : Bot déconnecté
+13/11/2019 17:16:57 : Bot prêt
+13/11/2019 17:17:04 : Réponse _ping à Dijmy#3805
+[ERREUR] 13/11/2019 17:17:55 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:19:11 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:21:20 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:24:31 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:26:29 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:27:04 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:28:51 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:29:50 : Réponse _addmeme à susucre#3076
+13/11/2019 17:34:17 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:34:34 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:37:19 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:38:59 : Réponse _addmeme à Dijmy#3805
+[ERREUR] 13/11/2019 17:45:25 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:47:41 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:49:09 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:50:59 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:57:02 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:57:44 : Réponse _addmeme à Dijmy#3805
+13/11/2019 17:58:12 : Réponse _logout à Dijmy#3805
+13/11/2019 17:58:12 : Bot déconnecté
