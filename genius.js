@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
 
-const prefix = '_';
+const prefix = process.env.prefix;
 const ownersID = ['223839985751556096', '168332990319951872'];
 const active = new Map();
 let sleepMode = false;
@@ -181,4 +181,4 @@ client.on('guildDelete', (guild) => {
     client.user.setActivity(`${client.guilds.size} serveurs \| _help`, {type: 'WATCHING'});
 })
 
-client.login('NTg4MDExOTI0NTAzOTIwNjUz.Xb9eWQ.PJ8-VmYpHynFEyvgTCna8mhdncw');
+client.login(process.env.TOKEN);
