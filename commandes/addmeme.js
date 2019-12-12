@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const fs = require ('fs');
-const http = require('http');
 const request = require('request');
 
 exports.run = (client, msg, args, ops) => {
