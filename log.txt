@@ -3188,3 +3188,6 @@
 18/12/2019 23:25:49 : Réponse _nsfw black à Jimmmy#3805
 18/12/2019 23:25:58 : Réponse _nsfw chinese à Jimmmy#3805
 18/12/2019 23:26:14 : Réponse _nsfw chinese à Jimmmy#3805
+18/12/2019 23:39:57 : Bot prêt
+18/12/2019 23:40:06 : Réponse _logout à Jimmmy#3805
+18/12/2019 23:40:06 : Bot déconnecté
