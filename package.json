@@ -20,9 +20,10 @@
     "shuffle-array": "^1.0.1",
     "system-sleep": "^1.3.6",
     "yt-search": "^0.4.1",
-    "ytdl": "^0.11.1",
-    "ytdl-core": "^0.29.7",
-    "ytpl": "^0.1.15"
+    "ytdl": "^1.1.0",
+    "ytdl-core": "^1.0.3",
+    "ytpl": "^0.1.19"
   },
+  "devDependencies": {},
   "description": ""
 }

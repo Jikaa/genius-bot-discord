@@ -185,15 +185,7 @@ async function end(client, ops, data, msg, boucle, i) {
         ops.active.delete(msg.guild.id, data);
         let boucle = 0;
         let fetched = ops.active.get(msg.guild.id);
-        while (!fetched) {
-            sleep(1000);
-            fetched = ops.active.get(msg.guild.id);
-            boucle++;
-            if (boucle === 300) {
-                msg.guild.me.voiceChannel.leave();
-                break;
-            }
-        }
+        msg.guild.me.voiceChannel.leave();
     }
 
 }
