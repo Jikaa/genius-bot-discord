@@ -6,7 +6,6 @@ exports.run = async (client, msg, args, ops) => {
 
     if (!msg.guild.me.voiceChannel) return msg.channel.send('Le bot n\'est connecté à aucun salon vocal');
     if (msg.member.voiceChannel !== msg.guild.me.voiceChannel) return msg.channel.send('Vous n\'êtes pas connecté au même salon vocal');
-    //
 
     if ((args[0] === 'all' || args[0] === 'gyhvvtdjuxamjwr') && fetched) {
 
@@ -30,9 +29,7 @@ exports.run = async (client, msg, args, ops) => {
         if (args[0] === 'gyhvvtdjuxamjwr') {
             fetched.queue = fetched.queue.splice();
             fetched.dispatcher.emit('ended');
-            console.log('ui');
         } else {
-            console.log('coucou');
             fetched.queue = fetched.queue.splice();
             fetched.dispatcher.emit('end');
         }
