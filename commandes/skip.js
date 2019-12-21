@@ -6,7 +6,7 @@ exports.run = async (client, msg, args, ops) => {
 
     if (!msg.guild.me.voiceChannel) return msg.channel.send('Le bot n\'est connecté à aucun salon vocal');
     if (msg.member.voiceChannel !== msg.guild.me.voiceChannel) return msg.channel.send('Vous n\'êtes pas connecté au même salon vocal');
-    //if (args[0] < 0 || args[0] > fetched.queue.length-1) return msg.channel.send(`Position "${args[0]}" introuvable dans la playlist`)
+    //
 
     if ((args[0] === 'all' || args[0] === 'gyhvvtdjuxamjwr') && fetched) {
 
@@ -48,6 +48,8 @@ exports.run = async (client, msg, args, ops) => {
     } else if (fetched && (Number(args[0]) >= 0 || Number(args[0]) <= 0 || !args[0])) {
 
         if (!args[0]) args[0] = fetched.i;
+
+        if (args[0] < 0 || args[0] > fetched.queue.length-1) return msg.channel.send(`Position "${args[0]}" introuvable dans la playlist`)
 
         let embed = new Discord.RichEmbed()
         .addField('*Abandon :*', `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Position ${args[0]} : ${fetched.queue[args[0]].title}`)

@@ -165,7 +165,6 @@ async function play(client, ops, data, msg, boucle, i) {
     });
 
     data.dispatcher.once('end', async function() {
-        console.log(endedd);
         if (!endedd) {
             await end(client, ops, data, msg, boucle, i);
         }
