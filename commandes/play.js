@@ -218,14 +218,13 @@ var socketTimer;
 somme = 0;
 function startTimer(ops, msg) {
     let fetched = ops.active.get(msg.guild.id);
-    if (somme < 15 && !fetched && endedd === false && msg.guild.me.voiceChannel) {
+    if (somme < 300 && !fetched && endedd === false && msg.guild.me.voiceChannel) {
         socketTimer = setTimeout(function () {startTimer(ops, msg);}, 1000);
         somme = somme + 1;
     } else if (somme === 300 && !fetched && endedd === false && msg.guild.me.voiceChannel) {
         msg.guild.me.voiceChannel.leave();
         somme = 0;
     }
-    console.log(somme);
 }
 
 function stopTimer() {
