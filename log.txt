@@ -3191,3 +3191,302 @@
 18/12/2019 23:39:57 : Bot prêt
 18/12/2019 23:40:06 : Réponse _logout à Jimmmy#3805
 18/12/2019 23:40:06 : Bot déconnecté
+20/12/2019 23:57:01 : Bot prêt
+20/12/2019 23:57:05 : Réponse _ping à Jimmmy#3805
+[ERREUR] 20/12/2019 23:57:12 : Réponse _waitLeave à Jimmmy#3805
+[ERREUR] 20/12/2019 23:58:29 : Réponse _waitLeave à Jimmmy#3805
+[ERREUR] 20/12/2019 23:58:54 : Réponse _waitLeave à Jimmmy#3805
+[ERREUR] 21/12/2019 00:00:59 : Réponse _waitLeave à Jimmmy#3805
+21/12/2019 00:01:11 : Réponse _waitLeave à Jimmmy#3805
+21/12/2019 00:01:19 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:01:29 : Réponse _waitLeave à Jimmmy#3805
+21/12/2019 00:01:30 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:02:03 : Réponse _waitLeave à Jimmmy#3805
+[ERREUR] 21/12/2019 00:16:12 : Réponse _ à Jimmmy#3805
+[ERREUR] 21/12/2019 00:16:40 : Réponse _ à Jimmmy#3805
+[ERREUR] 21/12/2019 00:16:47 : Réponse _! à Jimmmy#3805
+21/12/2019 00:16:57 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:09 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:14 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:21 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:30 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:51 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:17:58 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:03 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:07 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:15 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:19 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:23 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:27 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:18:30 : Réponse _meme à Jimmmy#3805
+21/12/2019 00:29:26 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:29:42 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:31:24 : Bot prêt
+21/12/2019 00:31:28 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:31:38 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:31:56 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:32:00 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:32:02 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:32:13 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:32:16 : Réponse _skip à Jimmmy#3805
+21/12/2019 00:32:22 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:34:11 : Bot prêt
+21/12/2019 00:37:29 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:37:32 : Réponse _skip à Jimmmy#3805
+21/12/2019 00:38:01 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:38:03 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:40:32 : Bot prêt
+21/12/2019 00:40:35 : Réponse _play à Jimmmy#3805
+21/12/2019 00:40:40 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:40:43 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:43:52 : Bot prêt
+21/12/2019 00:43:57 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:44:00 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:46:58 : Bot prêt
+21/12/2019 00:47:01 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:47:04 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:47:50 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:47:56 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:55:39 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:55:46 : Réponse _playlist à Jimmmy#3805
+21/12/2019 00:55:54 : Réponse _skip à Jimmmy#3805
+21/12/2019 00:56:45 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:56:47 : Réponse _leave à Jimmmy#3805
+21/12/2019 00:57:02 : Réponse _ping à Jimmmy#3805
+21/12/2019 00:57:46 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:58:16 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 00:58:19 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:00:00 : Bot prêt
+21/12/2019 01:00:05 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:02:04 : Bot prêt
+21/12/2019 01:02:10 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:02:13 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:06:16 : Bot prêt
+21/12/2019 01:06:22 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:06:26 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:08:20 : Bot prêt
+21/12/2019 01:08:25 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:08:27 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:11:37 : Bot prêt
+21/12/2019 01:11:41 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:11:43 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:16:08 : Bot prêt
+21/12/2019 01:16:16 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:16:19 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:19:51 : Bot prêt
+21/12/2019 01:20:01 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:20:04 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:20:43 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:22:13 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:22:13 : Bot déconnecté
+21/12/2019 01:22:18 : Bot prêt
+21/12/2019 01:22:22 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:22:25 : Réponse _leave à Jimmmy#3805
+21/12/2019 01:22:51 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:23:22 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:23:24 : Réponse _skip à Jimmmy#3805
+21/12/2019 01:23:45 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:23:49 : Réponse _skip all à Jimmmy#3805
+21/12/2019 01:24:08 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:24:10 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 01:25:39 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:25:42 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 01:27:40 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:27:43 : Réponse _skip à Jimmmy#3805
+21/12/2019 01:27:50 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:27:54 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 01:37:53 : Bot prêt
+21/12/2019 01:37:57 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:38:11 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:39:36 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:39:36 : Bot déconnecté
+21/12/2019 01:39:44 : Bot prêt
+21/12/2019 01:39:57 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:40:09 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:40:28 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:40:28 : Bot déconnecté
+21/12/2019 01:40:32 : Bot prêt
+21/12/2019 01:40:38 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:41:57 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:41:57 : Bot déconnecté
+21/12/2019 01:42:00 : Bot prêt
+21/12/2019 01:42:04 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:44:33 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:44:33 : Bot déconnecté
+21/12/2019 01:44:36 : Bot prêt
+21/12/2019 01:44:39 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:44:51 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:44:51 : Bot déconnecté
+21/12/2019 01:45:07 : Bot prêt
+21/12/2019 01:45:09 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:45:42 : Réponse _logout à Jimmmy#3805
+21/12/2019 01:45:42 : Bot déconnecté
+21/12/2019 01:45:44 : Bot prêt
+21/12/2019 01:45:48 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 01:48:38 : Bot prêt
+21/12/2019 01:48:44 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:03:12 : Bot prêt
+21/12/2019 02:03:16 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:03:58 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:03:58 : Bot déconnecté
+21/12/2019 02:04:01 : Bot prêt
+21/12/2019 02:04:04 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:05:52 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:05:52 : Bot déconnecté
+21/12/2019 02:05:55 : Bot prêt
+21/12/2019 02:05:58 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:06:46 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:06:46 : Bot déconnecté
+21/12/2019 02:06:48 : Bot prêt
+21/12/2019 02:06:51 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:17:22 : Bot prêt
+21/12/2019 02:17:25 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:17:56 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:17:56 : Bot déconnecté
+21/12/2019 02:17:59 : Bot prêt
+21/12/2019 02:18:02 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:18:30 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:18:57 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:19:07 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:19:38 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:19:41 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:20:18 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:20:22 : Réponse _skip à Jimmmy#3805
+21/12/2019 02:22:47 : Bot prêt
+21/12/2019 02:22:53 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:22:56 : Réponse _skip à Jimmmy#3805
+21/12/2019 02:24:50 : Bot prêt
+21/12/2019 02:24:53 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:24:56 : Réponse _skip à Jimmmy#3805
+21/12/2019 02:25:20 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:25:46 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:25:55 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:26:10 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:28:55 : Bot prêt
+21/12/2019 02:29:04 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:29:15 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:31:52 : Bot prêt
+21/12/2019 02:31:55 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:32:05 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:33:07 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:33:07 : Bot déconnecté
+21/12/2019 02:33:10 : Bot prêt
+21/12/2019 02:33:13 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:33:22 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:36:55 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:36:55 : Bot déconnecté
+21/12/2019 02:36:59 : Bot prêt
+21/12/2019 02:37:05 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 02:37:13 : Réponse _leave à Jimmmy#3805
+21/12/2019 02:37:24 : Réponse _logout à Jimmmy#3805
+21/12/2019 02:37:24 : Bot déconnecté
+21/12/2019 02:37:27 : Bot prêt
+21/12/2019 20:17:56 : Bot prêt
+21/12/2019 20:18:03 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:18:29 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:18:35 : Réponse _leave à Jimmmy#3805
+21/12/2019 20:19:13 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:19:23 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:20:09 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:20:14 : Réponse _skip à Jimmmy#3805
+21/12/2019 20:20:37 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:20:47 : Réponse _skip à Jimmmy#3805
+21/12/2019 20:21:02 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:21:05 : Réponse _skip à Jimmmy#3805
+21/12/2019 20:22:13 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:22:22 : Réponse _leave à Jimmmy#3805
+21/12/2019 20:23:02 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 20:23:05 : Réponse _skip à Jimmmy#3805
+21/12/2019 20:47:52 : Réponse _join à Jimmmy#3805
+21/12/2019 20:47:56 : Réponse _waitLeave à Jimmmy#3805
+21/12/2019 20:48:18 : Réponse _leave à Jimmmy#3805
+21/12/2019 20:48:47 : Réponse _waitLeave à Jimmmy#3805
+21/12/2019 21:01:42 : Réponse _waitLeave 5 à Jimmmy#3805
+21/12/2019 21:02:01 : Réponse _waitLeave 5 à Jimmmy#3805
+21/12/2019 21:02:31 : Réponse _logout à Jimmmy#3805
+21/12/2019 21:02:31 : Bot déconnecté
+21/12/2019 21:02:34 : Bot prêt
+21/12/2019 21:02:40 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:02:44 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:03:04 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:03:06 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:04:34 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:05:01 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:05:10 : Réponse _leave à Jimmmy#3805
+21/12/2019 21:07:04 : Réponse _play if (!args[0]) args[0] = Number(fetched.i);
+    console.log(fetched.i); à Jimmmy#3805
+21/12/2019 21:07:11 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:07:18 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:08:28 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:08:39 : Réponse _leave à Jimmmy#3805
+21/12/2019 21:13:02 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:13:12 : Réponse _leave à Jimmmy#3805
+21/12/2019 21:15:55 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:16:07 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:16:23 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:16:26 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:17:15 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:17:19 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:17:38 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:17:41 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:17:46 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:17:55 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:17:58 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:18:07 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:19:29 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:19:38 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:19:44 : Réponse _leave à Jimmmy#3805
+21/12/2019 21:19:53 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:19:57 : Réponse _leave à Jimmmy#3805
+21/12/2019 21:20:11 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:20:15 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:22:46 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:22:49 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:24:06 : Réponse _logout à Jimmmy#3805
+21/12/2019 21:24:06 : Bot déconnecté
+21/12/2019 21:24:11 : Bot prêt
+21/12/2019 21:27:57 : Réponse _skip gjfkl à Jimmmy#3805
+21/12/2019 21:28:31 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:28:35 : Réponse _skip hfjkdhgq à Jimmmy#3805
+21/12/2019 21:29:57 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:30:00 : Réponse _skip fhkjshfd à Jimmmy#3805
+21/12/2019 21:30:35 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:30:38 : Réponse _skip hfjsdhjkg à Jimmmy#3805
+21/12/2019 21:30:44 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:30:47 : Réponse _skip 5 à Jimmmy#3805
+21/12/2019 21:30:52 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:35:22 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:35:25 : Réponse _skip hfdjk à Jimmmy#3805
+21/12/2019 21:35:31 : Réponse _skip hfksd à Jimmmy#3805
+21/12/2019 21:35:34 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:44:04 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:44:08 : Réponse _skip gjlkdfjg à Jimmmy#3805
+21/12/2019 21:44:13 : Réponse _skip 0 à Jimmmy#3805
+21/12/2019 21:44:16 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:44:20 : Réponse _skip all à Jimmmy#3805
+21/12/2019 21:51:19 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:51:22 : Réponse _skip all à Jimmmy#3805
+21/12/2019 21:51:26 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:51:35 : Réponse _skip all à Jimmmy#3805
+21/12/2019 21:51:37 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:51:44 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:54:29 : Réponse _play https://www.youtube.com/watch?v=IGQBtbKSVhY à Jimmmy#3805
+21/12/2019 21:54:32 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:54:34 : Réponse _skip à Jimmmy#3805
+21/12/2019 21:54:37 : Réponse _skip fdkl à Jimmmy#3805
+21/12/2019 21:54:39 : Réponse _skip all à Jimmmy#3805
+21/12/2019 21:54:42 : Réponse _skip leave à Jimmmy#3805
+21/12/2019 21:56:59 : Réponse _play gyhvvtdjuxamjwr à Jimmmy#3805
+21/12/2019 21:57:55 : Réponse _play mdr à Jimmmy#3805
+21/12/2019 21:58:06 : Réponse _skip à Jimmmy#3805
+21/12/2019 22:00:57 : Réponse _play gyhvvtdjuxamjwr à Jimmmy#3805
+21/12/2019 22:01:15 : Réponse _play gyhvvtdjuxamjwr à Jimmmy#3805
+21/12/2019 22:01:28 : Réponse _play gyhvvtdjuxamjwr à Jimmmy#3805
+21/12/2019 22:01:33 : Réponse _play mdr à Jimmmy#3805
+21/12/2019 22:01:38 : Réponse _skip à Jimmmy#3805
+21/12/2019 22:03:47 : Réponse _help à Jimmmy#3805
+21/12/2019 22:12:22 : Réponse _leave à Jimmmy#3805
+21/12/2019 22:12:37 : Réponse _join à Jimmmy#3805
+21/12/2019 22:12:40 : Réponse _leave à Jimmmy#3805
+21/12/2019 23:28:09 : Réponse _logout à Jimmmy#3805
+21/12/2019 23:28:09 : Bot déconnecté

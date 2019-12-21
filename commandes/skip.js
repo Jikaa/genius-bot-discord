@@ -4,12 +4,11 @@ exports.run = async (client, msg, args, ops) => {
 
     let fetched = ops.active.get(msg.guild.id);
 
-    if (!fetched) return msg.channel.send('Aucune diffusion n\'est en cours');
+    if (!msg.guild.me.voiceChannel) return msg.channel.send('Le bot n\'est connecté à aucun salon vocal');
     if (msg.member.voiceChannel !== msg.guild.me.voiceChannel) return msg.channel.send('Vous n\'êtes pas connecté au même salon vocal');
-    if (args[0] < 0 || args[0] > fetched.queue.length-1) return msg.channel.send(`Position "${args[0]}" introuvable dans la playlist`)
+    //if (args[0] < 0 || args[0] > fetched.queue.length-1) return msg.channel.send(`Position "${args[0]}" introuvable dans la playlist`)
 
-    if (!args[0]) args[0] = fetched.i;
-    if (args[0] === 'all' || args[0] === 'leave') {
+    if ((args[0] === 'all' || args[0] === 'gyhvvtdjuxamjwr') && fetched) {
 
         let dureeTotale = parseInt(fetched.queue[0].duree);
         for (var i=1; i < fetched.queue.length; i++) {
@@ -28,16 +27,27 @@ exports.run = async (client, msg, args, ops) => {
         msg.channel.send({embed : embed});
 
         
-        if (args[0] === 'leave') {
-            msg.guild.me.voiceChannel.leave();
-            ops.active.delete(msg.guild.id, fetched);
+        if (args[0] === 'gyhvvtdjuxamjwr') {
             fetched.queue = fetched.queue.splice();
+            fetched.dispatcher.emit('ended');
+            console.log('ui');
         } else {
+            console.log('coucou');
             fetched.queue = fetched.queue.splice();
             fetched.dispatcher.emit('end');
         }
 
-    } else {
+    } else if (args[0] === 'all' && !fetched) {
+
+        return msg.channel.send('Aucune diffusion n\'est en cours');
+
+    } else if (args[0] === 'gyhvvtdjuxamjwr' && !fetched) {
+
+        msg.guild.me.voiceChannel.leave();
+
+    } else if (fetched && (Number(args[0]) >= 0 || Number(args[0]) <= 0 || !args[0])) {
+
+        if (!args[0]) args[0] = fetched.i;
 
         let embed = new Discord.RichEmbed()
         .addField('*Abandon :*', `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Position ${args[0]} : ${fetched.queue[args[0]].title}`)
@@ -45,9 +55,17 @@ exports.run = async (client, msg, args, ops) => {
         .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
         msg.channel.send({embed : embed});
     
-        if (args[0] === 0) fetched.dispatcher.emit('end');
+        if (Number(args[0]) === 0) fetched.dispatcher.emit('end');
         else fetched.queue.splice(args[0], 1);
     
+    } else if ((!(Number(args[0]) >= 0 || Number(args[0]) <= 0)) && !!args[0]) {
+        
+        return msg.channel.send("Utilisation de la commande skip ```skip <position> | all```");
+
+    } else {
+
+        return msg.channel.send("Aucune diffusion n\'est en cours");
+
     }
 
 }

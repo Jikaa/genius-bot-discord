@@ -2,7 +2,6 @@ const ytpl = require('ytpl');
 const ytdl = require('ytdl-core');
 const search = require('yt-search');
 const Discord = require('discord.js');
-const sleep = require('system-sleep');
 
 exports.run = async (client, msg, args, ops) => {
 
@@ -17,8 +16,8 @@ exports.run = async (client, msg, args, ops) => {
     let data = ops.active.get(msg.guild.id) || {};
 
     if (!msg.member.voiceChannel) return msg.channel.send('Connectez-vous à un salon vocal');
-    if (msg.guild.me.voiceChannel && (msg.member.voiceChannel !== msg.guild.me.voiceChannel)) return msg.channel.send(`Le bot est en cours d'utilisation dans le salon vocal ${msg.guild.me.voiceChannel.name}`);
-    if (!args[0]) return msg.channel.send("Utilisation de la commande play ```play <URL Youtube> | <recherche mots clés>```");
+    if (msg.guild.me.voiceChannel && (msg.member.voiceChannel !== msg.guild.me.voiceChannel)) return msg.channel.send(`Le bot est déjà en cours d'utilisation dans le salon vocal ${msg.guild.me.voiceChannel.name}`);
+    if (!args[0]) return msg.channel.send("Utilisation de la commande play ```play <URL YouTube> | <recherche mots clés>```");
 
     if (args[0].startsWith('http://') || args[0].startsWith('https://')) {
 
@@ -46,7 +45,8 @@ exports.run = async (client, msg, args, ops) => {
             if (err) throw err;
 
             let videos = res.videos.slice(0, 1);
-            let adresse = videos[0].videoId
+            if (!videos[0]) return msg.channel.send(':x: Aucun résultat trouvé sur YouTube');
+            let adresse = videos[0].videoId;
             await inserer(client, ops, data, msg, adresse);
 
         });
@@ -118,6 +118,7 @@ async function inserer(client, ops, data, msg, adresse, playlist) {
 
 }
 
+endedd = false;
 async function play(client, ops, data, msg, boucle, i) {
 
     if (!i) i = 0;
@@ -159,10 +160,25 @@ async function play(client, ops, data, msg, boucle, i) {
         }
     });
 
-    data.dispatcher.once('end', async function() {
-        await end(client, ops, data, msg, boucle, i);
+    data.dispatcher.on('ended', function() {
+        ended(client, ops, data, msg);
     });
 
+    data.dispatcher.once('end', async function() {
+        console.log(endedd);
+        if (!endedd) {
+            await end(client, ops, data, msg, boucle, i);
+        }
+        endedd = false;
+    });
+
+}
+
+
+function ended(client, ops, data, msg) {
+    endedd = true;
+    ops.active.delete(msg.guild.id, data);
+    msg.guild.me.voiceChannel.leave();
 }
 
 async function end(client, ops, data, msg, boucle, i) {
@@ -184,8 +200,34 @@ async function end(client, ops, data, msg, boucle, i) {
     } else {
         ops.active.delete(msg.guild.id, data);
         let boucle = 0;
-        let fetched = ops.active.get(msg.guild.id);
-        msg.guild.me.voiceChannel.leave();
+        startTimer(ops, msg);
     }
 
+}
+
+async function loop(ops, msg) {
+    let fetched = ops.active.get(msg.guild.id);
+    if (!fetched) {
+        await loop(ops, msg);
+    } else {
+        stopTimer();
+    }
+}
+
+var socketTimer;
+somme = 0;
+function startTimer(ops, msg) {
+    let fetched = ops.active.get(msg.guild.id);
+    if (somme < 15 && !fetched && endedd === false && msg.guild.me.voiceChannel) {
+        socketTimer = setTimeout(function () {startTimer(ops, msg);}, 1000);
+        somme = somme + 1;
+    } else if (somme === 300 && !fetched && endedd === false && msg.guild.me.voiceChannel) {
+        msg.guild.me.voiceChannel.leave();
+        somme = 0;
+    }
+    console.log(somme);
+}
+
+function stopTimer() {
+    clearTimeout(socketTimer);
 }
