@@ -41,7 +41,7 @@ client.on('message', msg => {
     if (cmd === 'sleep' && sleepMode === false) {
         for (var i=0; i<ownersID.length; i++) {
             if (msg.author.id !== ownersID[i]) owner++;
-        } 
+        }
         if (owner === ownersID.length) return msg.channel.send('Vous n\'avez pas la permission d\'utiliser cette commande');
         else { sleepMode = true; logg = `${Datee} : Réponse ${msg.content} à ${msg.author.tag}`; msg.channel.send('Bot inactif'); client.user.setStatus('idle');}}
     else if (cmd === 'sleep' && sleepMode === true) { 

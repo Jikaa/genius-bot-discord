@@ -3490,3 +3490,19 @@
 21/12/2019 22:12:40 : Réponse _leave à Jimmmy#3805
 21/12/2019 23:28:09 : Réponse _logout à Jimmmy#3805
 21/12/2019 23:28:09 : Bot déconnecté
+19/06/2020 22:14:21 : Bot prêt
+19/06/2020 22:15:54 : Réponse _play first place snoop dogg à Wayzyxx#0159
+19/06/2020 22:16:54 : Réponse _leave à Wayzyxx#0159
+19/06/2020 22:17:29 : Réponse _logout à Jimmy#1296
+19/06/2020 22:17:29 : Bot déconnecté
+19/06/2020 22:22:15 : Bot prêt
+19/06/2020 22:23:02 : Réponse _play randy newman its a jungle out there à Wayzyxx#0159
+19/06/2020 22:23:20 : Réponse _play https://www.youtube.com/watch?v=xBdF3E2NVI8 à Wayzyxx#0159
+19/06/2020 22:24:43 : Réponse _play ichika nito orb à Wayzyxx#0159
+19/06/2020 22:26:56 : Réponse _playlist à Jimmy#1296
+19/06/2020 22:27:36 : Réponse _play https://www.youtube.com/watch?v=KhaUnHJjS8A&list=PLDWC42wj-bSqzuuOpY0IcmoEvRL5iWMdN&index=9&t=0s à Wayzyxx#0159
+19/06/2020 22:27:51 : Réponse _skip à Wayzyxx#0159
+19/06/2020 22:28:27 : Réponse _skip à Wayzyxx#0159
+19/06/2020 22:28:59 : Réponse _play https://www.youtube.com/watch?v=f5UGmlSWQYs&list=PLDWC42wj-bSqzuuOpY0IcmoEvRL5iWMdN&index=10 à Wayzyxx#0159
+19/06/2020 22:44:48 : Réponse _logout à Jimmy#1296
+19/06/2020 22:44:48 : Bot déconnecté
