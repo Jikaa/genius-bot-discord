@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-exports.run = async (client, msg, args, ops) => {
+exports.run = (client, msg, args, ops) => {
 
     if (!args[0]) {
 
