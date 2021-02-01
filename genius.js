@@ -63,7 +63,7 @@ client.on('message', msg => {
         if (cmd) {
             let emb = new Discord.MessageEmbed()
             .setAuthor(`Commande ${cmd} inexistante ou indisponible`)
-            .setImage('https://cdn.discordapp.com/avatars/588011924503920653/0736ec7f2c84add040af843781d75e8a.png?size=2048')
+            .setImage('https://cdn.discordapp.com/avatars/588011924503920653/5adbfb07589a160d4e515d947a0b8f5e.png?size=1024')
             .setFooter('_help pour la liste des commandes', msg.author.avatarURL)
             .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
             msg.channel.send({embed : emb});
