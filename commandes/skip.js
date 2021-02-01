@@ -4,8 +4,8 @@ exports.run = async (client, msg, args, ops) => {
 
     let fetched = ops.active.get(msg.guild.id);
 
-    if (!msg.guild.me.voiceChannel) return msg.channel.send('Le bot n\'est connecté à aucun salon vocal');
-    if (msg.member.voiceChannel !== msg.guild.me.voiceChannel) return msg.channel.send('Vous n\'êtes pas connecté au même salon vocal');
+    if (!msg.guild.me.voice.channel) return msg.channel.send('Le bot n\'est connecté à aucun salon vocal');
+    if (msg.member.voice.channel !== msg.guild.me.voice.channel) return msg.channel.send('Vous n\'êtes pas connecté au même salon vocal');
 
     if ((args[0] === 'all' || args[0] === 'gyhvvtdjuxamjwr') && fetched) {
 
@@ -19,9 +19,9 @@ exports.run = async (client, msg, args, ops) => {
 	    if (dureeMinutes < 10) dureeMinutes = `0${dureeMinutes}`;
 	    if (dureeSecondes < 10) dureeSecondes = `0${dureeSecondes}`;
 
-        let embed = new Discord.RichEmbed()
+        let embed = new Discord.MessageEmbed()
         .addField('*Abandon :*', `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Toute la playlist`)
-        .setFooter(`${dureeMinutes}:${dureeSecondes} ${msg.guild.me.voiceChannel.name}`, msg.author.avatarURL)
+        .setFooter(`${dureeMinutes}:${dureeSecondes} ${msg.guild.me.voice.channel.name}`, msg.author.displayAvatarURL())
         .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
         msg.channel.send({embed : embed});
 
@@ -31,7 +31,7 @@ exports.run = async (client, msg, args, ops) => {
             fetched.dispatcher.emit('ended');
         } else {
             fetched.queue = fetched.queue.splice();
-            fetched.dispatcher.emit('end');
+            fetched.dispatcher.emit('finish');
         }
 
     } else if (args[0] === 'all' && !fetched) {
@@ -40,7 +40,7 @@ exports.run = async (client, msg, args, ops) => {
 
     } else if (args[0] === 'gyhvvtdjuxamjwr' && !fetched) {
 
-        msg.guild.me.voiceChannel.leave();
+        msg.guild.me.voice.channel.leave();
 
     } else if (fetched && (Number(args[0]) >= 0 || Number(args[0]) <= 0 || !args[0])) {
 
@@ -48,13 +48,13 @@ exports.run = async (client, msg, args, ops) => {
 
         if (args[0] < 0 || args[0] > fetched.queue.length-1) return msg.channel.send(`Position "${args[0]}" introuvable dans la playlist`)
 
-        let embed = new Discord.RichEmbed()
+        let embed = new Discord.MessageEmbed()
         .addField('*Abandon :*', `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b Position ${args[0]} : ${fetched.queue[args[0]].title}`)
-        .setFooter(`${fetched.queue[args[0]].dureeMinutes}:${fetched.queue[args[0]].dureeSecondes} ${msg.guild.me.voiceChannel.name}`, fetched.queue[args[0]].auteur.avatarURL)
+        .setFooter(`${fetched.queue[args[0]].dureeMinutes}:${fetched.queue[args[0]].dureeSecondes} ${msg.guild.me.voice.channel.name}`, fetched.queue[args[0]].auteur.displayAvatarURL())
         .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
         msg.channel.send({embed : embed});
     
-        if (Number(args[0]) === 0) fetched.dispatcher.emit('end');
+        if (Number(args[0]) === 0) fetched.dispatcher.emit('finish');
         else fetched.queue.splice(args[0], 1);
     
     } else if ((!(Number(args[0]) >= 0 || Number(args[0]) <= 0)) && !!args[0]) {

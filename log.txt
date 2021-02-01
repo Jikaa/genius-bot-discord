@@ -3506,3 +3506,106 @@
 19/06/2020 22:28:59 : Réponse _play https://www.youtube.com/watch?v=f5UGmlSWQYs&list=PLDWC42wj-bSqzuuOpY0IcmoEvRL5iWMdN&index=10 à Wayzyxx#0159
 19/06/2020 22:44:48 : Réponse _logout à Jimmy#1296
 19/06/2020 22:44:48 : Bot déconnecté
+01/02/2021 17:12:31 : Bot prêt
+01/02/2021 17:12:46 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 17:14:58 : Réponse _help à Jimmy#1296
+01/02/2021 17:15:08 : Réponse _join à Jimmy#1296
+01/02/2021 17:15:14 : Réponse _leave à Jimmy#1296
+01/02/2021 17:15:39 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 17:33:40 : Bot prêt
+01/02/2021 17:37:17 : Bot prêt
+01/02/2021 17:37:23 : Réponse _help à Jimmy#1296
+01/02/2021 17:41:50 : Bot prêt
+01/02/2021 17:41:54 : Réponse _help à Jimmy#1296
+01/02/2021 17:48:12 : Bot prêt
+[ERREUR] 01/02/2021 17:48:15 : Réponse _hgd à Jimmy#1296
+01/02/2021 17:48:36 : Réponse _help à Jimmy#1296
+01/02/2021 17:49:40 : Réponse _statut à Jimmy#1296
+01/02/2021 17:49:53 : Réponse _statut idle à Jimmy#1296
+01/02/2021 17:49:58 : Réponse _statut dnd à Jimmy#1296
+01/02/2021 17:50:07 : Réponse _statut invisible à Jimmy#1296
+01/02/2021 17:50:11 : Réponse _statut online à Jimmy#1296
+01/02/2021 17:50:24 : Réponse _lyrics à Jimmy#1296
+01/02/2021 17:50:34 : Réponse _lyrics rain drops keep falling on my head à Jimmy#1296
+01/02/2021 17:54:27 : Réponse _help à Jimmy#1296
+[ERREUR] 01/02/2021 17:54:34 : Réponse _logout à Jimmy#1296
+01/02/2021 17:54:44 : Bot prêt
+01/02/2021 17:54:49 : Réponse _help à Jimmy#1296
+[ERREUR] 01/02/2021 17:54:56 : Réponse _logout à Jimmy#1296
+01/02/2021 17:59:20 : Bot prêt
+01/02/2021 17:59:27 : Réponse _help à Jimmy#1296
+[ERREUR] 01/02/2021 17:59:36 : Réponse _logout à Jimmy#1296
+01/02/2021 18:03:12 : Bot prêt
+01/02/2021 18:03:17 : Réponse _logout à Jimmy#1296
+01/02/2021 18:03:51 : Bot prêt
+01/02/2021 18:03:55 : Réponse _logout à Jimmy#1296
+01/02/2021 18:03:55 : Bot déconnecté
+01/02/2021 18:04:36 : Bot prêt
+01/02/2021 18:04:38 : Réponse _help à Jimmy#1296
+01/02/2021 18:07:10 : Réponse _lyrics rain drops keep falling on my head à Jimmy#1296
+01/02/2021 18:07:44 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:09:45 : Réponse _join à Jimmy#1296
+01/02/2021 18:09:51 : Réponse _join à Jimmy#1296
+[ERREUR] 01/02/2021 18:10:24 : Réponse _join à Jimmy#1296
+01/02/2021 18:10:35 : Réponse _join à Jimmy#1296
+01/02/2021 18:10:44 : Réponse _join à Jimmy#1296
+01/02/2021 18:11:55 : Réponse _join à Jimmy#1296
+01/02/2021 18:12:18 : Réponse _join à Jimmy#1296
+01/02/2021 18:12:21 : Réponse _logout à Jimmy#1296
+01/02/2021 18:12:21 : Bot déconnecté
+01/02/2021 18:12:25 : Bot prêt
+01/02/2021 18:12:29 : Réponse _join à Jimmy#1296
+01/02/2021 18:13:37 : Réponse _join à Jimmy#1296
+01/02/2021 18:13:42 : Réponse _leave à Jimmy#1296
+01/02/2021 18:13:55 : Réponse _leave à Jimmy#1296
+01/02/2021 18:14:37 : Réponse _leave à Jimmy#1296
+01/02/2021 18:15:16 : Réponse _leave à Jimmy#1296
+01/02/2021 18:16:19 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:16:32 : Réponse _leave à Jimmy#1296
+01/02/2021 18:16:41 : Réponse _help à Jimmy#1296
+01/02/2021 18:21:11 : Réponse _logout à Jimmy#1296
+01/02/2021 18:21:11 : Bot déconnecté
+01/02/2021 18:21:15 : Bot prêt
+01/02/2021 18:21:21 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:21:38 : Réponse _logout à Jimmy#1296
+01/02/2021 18:21:38 : Bot déconnecté
+01/02/2021 18:24:08 : Bot prêt
+01/02/2021 18:24:13 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:24:29 : Réponse _volume 50 à Jimmy#1296
+01/02/2021 18:24:38 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:25:06 : Réponse _loop à Jimmy#1296
+01/02/2021 18:29:29 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:29:37 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:29:49 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:34:57 : Réponse _logout à Jimmy#1296
+01/02/2021 18:34:57 : Bot déconnecté
+01/02/2021 18:35:01 : Bot prêt
+01/02/2021 18:35:08 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:35:15 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:35:33 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:36:17 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:36:31 : Réponse _skip à Jimmy#1296
+01/02/2021 18:39:45 : Réponse _logout à Jimmy#1296
+01/02/2021 18:39:45 : Bot déconnecté
+01/02/2021 18:39:49 : Bot prêt
+01/02/2021 18:39:53 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:41:23 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:42:09 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:42:16 : Réponse _play https://www.youtube.com/watch?v=sySlY1XKlhM à Jimmy#1296
+01/02/2021 18:42:19 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:42:25 : Réponse _skip à Jimmy#1296
+01/02/2021 18:42:30 : Réponse _playlist à Jimmy#1296
+01/02/2021 18:42:38 : Réponse _leave à Jimmy#1296
+01/02/2021 18:43:42 : Réponse _play https://www.youtube.com/watch?v=b7rfb3srnS0 à Jimmy#1296
+01/02/2021 18:43:58 : Réponse _volume 50 à Jimmy#1296
+01/02/2021 18:44:53 : Réponse _pause à Jimmy#1296
+01/02/2021 18:44:56 : Réponse _pause à Jimmy#1296
+01/02/2021 18:47:17 : Réponse _resume à Jimmy#1296
+01/02/2021 18:47:26 : Réponse _pause à Jimmy#1296
+01/02/2021 18:47:28 : Réponse _pause à Jimmy#1296
+01/02/2021 18:47:43 : Réponse _volume 100 à Jimmy#1296
+01/02/2021 18:47:50 : Réponse _volume defaut à Jimmy#1296
+01/02/2021 18:52:00 : Réponse _play https://www.youtube.com/watch?v=b7rfb3srnS0 à Jimmy#1296
+01/02/2021 18:52:34 : Réponse _leave à Jimmy#1296
+01/02/2021 18:52:40 : Réponse _logout à Jimmy#1296
+01/02/2021 18:52:40 : Bot déconnecté

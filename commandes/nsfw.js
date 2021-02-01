@@ -21,11 +21,11 @@ exports.run = async (client, msg, args, ops) => {
         search.gifs()
         .then(gifs => {
             let rnd = Math.floor(Math.random() * Math.floor(gifs.length-1));
-            let emb = new Discord.RichEmbed()
+            let emb = new Discord.MessageEmbed()
             .addField(':underage: NSFW :underage:', `Recherche : '${args}'`)
             .setImage(gifs[rnd].url)
             .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)])
-            .setFooter('Gif fourni par Pornhub.com', `${msg.author.avatarURL}`);
+            .setFooter('Gif fourni par Pornhub.com', `${msg.author.displayAvatarURL()}`);
             msg.channel.send({embed : emb});
         });
     }

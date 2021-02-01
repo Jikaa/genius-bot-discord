@@ -23,11 +23,11 @@ exports.run = async (client, msg, args, ops) => {
 	if (dureeMinutes < 10) dureeMinutes = `0${dureeMinutes}`;
 	if (dureeSecondes < 10) dureeSecondes = `0${dureeSecondes}`;
 
-	let embed = new Discord.RichEmbed()
+	let embed = new Discord.MessageEmbed()
 	.addField(`*Diffuse actuellement :*`, `\u200b \u200b \u200b \u200b - ${queue[0].title}`)
 	.addField(`*Playlist :*`, `${emb}`)
 	.setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)])
-	.setFooter(`${dureeMinutes}:${dureeSecondes} • ${msg.guild.me.voiceChannel.name}`, queue[0].auteur.avatarURL);
+	.setFooter(`${dureeMinutes}:${dureeSecondes} • ${msg.guild.me.voice.channel.name}`, queue[0].auteur.displayAvatarURL());
 	msg.channel.send({embed: embed});
 
 }
