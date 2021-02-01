@@ -7,7 +7,7 @@
     "start": "node genius.js"
   },
   "engines": {
-    "node": "10.16.0"
+    "node": "14.15.4"
   },
   "author": "",
   "license": "ISC",
