@@ -9,7 +9,7 @@ exports.run = (client, msg, args, ops) => {
 
     giphy.search({
         q: `${args}`,
-        limit: 20,
+        limit: 50,
         fmt: "json"
     }, function (err, res) {
         if (err) throw err;
