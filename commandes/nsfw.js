@@ -12,13 +12,7 @@ exports.run = async (client, msg, args, ops) => {
         search.gifs()
         .then(gifs => {
             let rnd = Math.floor(Math.random() * Math.floor(gifs.length-1));
-            let emb = new Discord.MessageEmbed()
-            .addField(':underage: NSFW :underage:', `Lien : '${gifs[rnd].webm}'`)
-            .setImage(`${gifs[rnd].webm}`)
-            .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)])
-            .setFooter('Gif fourni par Pornhub.com', `${msg.author.displayAvatarURL()}`);
-            msg.channel.send({embed : emb});
-            //msg.channel.send(`:underage: NSFW :underage: \n ${gifs[rnd].webm}`);
+            msg.channel.send(`:underage: NSFW :underage: \n ${gifs[rnd].webm}`);
         });
     } else {
         if (args[0] === 'gif') { args.splice(0, 1); }
@@ -27,12 +21,13 @@ exports.run = async (client, msg, args, ops) => {
         search.gifs()
         .then(gifs => {
             let rnd = Math.floor(Math.random() * Math.floor(gifs.length-1));
-            let emb = new Discord.MessageEmbed()
+            msg.channel.send(`:underage: NSFW :underage: \n ${gifs[rnd].url}`);
+            /*let emb = new Discord.MessageEmbed()
             .addField(':underage: NSFW :underage:', `Lien : '${gifs[rnd].url}'`)
             .setImage(`${gifs[rnd].url}`)
             .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)])
             .setFooter('Gif fourni par Pornhub.com', `${msg.author.displayAvatarURL()}`);
-            msg.channel.send({embed : emb});
+            msg.channel.send({embed : emb});*/
         });
     }
 
