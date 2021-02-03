@@ -27,6 +27,7 @@ exports.run = async (client, msg, args, ops) => {
             .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)])
             .setFooter('Gif fourni par Pornhub.com', `${msg.author.displayAvatarURL()}`);
             msg.channel.send({embed : emb});
+            msg.channel.send(gifs[rnd].url);
         });
     }
 
