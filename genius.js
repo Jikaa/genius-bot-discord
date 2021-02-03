@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
 
-const prefix = '_';
+const prefix = process.env.prefix;
 const ownersID = ['223839985751556096'];
 const active = new Map();
 let sleepMode = false;
@@ -211,4 +211,4 @@ client.on("shardDisconnect", (event, shardID) => {
 
 });
 
-client.login('NTg4MDExOTI0NTAzOTIwNjUz.Xf6dAA.Euj-BEUOFiVCofish2gHPvsPPD4');
+client.login(process.env.TOKEN);
