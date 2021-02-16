@@ -23,18 +23,16 @@ exports.run = async (client, msg, args, ops) => {
 
         let validateVideo = await ytdl.validateURL(args[0]);
         if (!validateVideo) {
-            
-            ytpl(args[0], async function(err, res) {
-                if (err) return msg.channel.send('URL invalide');
-                else { 
-                    await inserer(client, ops, data, msg, args[0], res.items);
-                    embb = new Discord.MessageEmbed()
-                    .addField(`Ajout d'une playlist par ${msg.author.username}`, `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b ${res.items.length} éléments`)
-                    .setFooter(`${msg.guild.me.voice.channel.name}`, msg.author.displayAvatarURL())
-                    .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
-                    msg.channel.send(embb);
-                }
-            });
+            let pl = ytpl(args[0]);
+            if (!pl.items) return msg.channel.send('URL invalide');
+            else { 
+                await inserer(client, ops, data, msg, args[0], pl.items);
+                embb = new Discord.MessageEmbed()
+                .addField(`Ajout d'une playlist par ${msg.author.username}`, `\u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b \u200b ${pl.items.length} éléments`)
+                .setFooter(`${msg.guild.me.voice.channel.name}`, msg.author.displayAvatarURL())
+                .setColor([Math.round(Math.random()*255), Math.round(Math.random()*255), Math.round(Math.random()*255)]);
+                msg.channel.send(embb);
+            }
 
         } else await inserer(client, ops, data, msg, args[0]);
 

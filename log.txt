@@ -3792,3 +3792,37 @@
 03/02/2021 22:54:34 : Réponse _lyrics raindrops à Jimmy#1296
 03/02/2021 22:55:59 : Réponse _nsfw video lesphilou à Jimmy#1296
 03/02/2021 22:59:21 : Bot déconnecté
+17/02/2021 00:11:47 : Bot prêt
+17/02/2021 00:11:53 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:12:12 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:12:44 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:14:25 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:14:51 : Réponse _ping à Jimmy#1296
+[ERREUR] 17/02/2021 00:15:03 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:15:24 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:20:26 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:20:39 : Réponse _pause à Jimmy#1296
+17/02/2021 00:20:42 : Réponse _playlist à Jimmy#1296
+17/02/2021 00:20:59 : Réponse _leave à Jimmy#1296
+17/02/2021 00:21:20 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:22:21 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:22:57 : Réponse _play let pl = await ytpl(args[0]); à Jimmy#1296
+17/02/2021 00:23:04 : Réponse _leave à Jimmy#1296
+17/02/2021 00:23:12 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:24:27 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:24:32 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:24:55 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:25:28 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:25:47 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:25:54 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:26:45 : Réponse _play !ytpl.validateID(ytpl.getPlaylistID(args[0])) à Jimmy#1296
+17/02/2021 00:26:48 : Réponse _leave à Jimmy#1296
+17/02/2021 00:26:55 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:27:37 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:27:59 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:28:17 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7h à Jimmy#1296
+17/02/2021 00:28:22 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:29:51 : Réponse _skip à Jimmy#1296
+17/02/2021 00:30:35 : Réponse _skip à Jimmy#1296
+17/02/2021 00:32:51 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
+17/02/2021 00:38:24 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
