@@ -124,7 +124,7 @@ async function play(client, ops, data, msg, boucle, i) {
 
     data.dispatcher = await data.connection.play(ytdl(data.queue[i].url, {filter: 'audioonly', quality: 'highestaudio'}));
     let fet = ops.active.get(msg.guild.id);
-    if (!fet.vlm) fet.vlm = 25;
+    if (!fet.vlm) fet.vlm = 66;
     data.dispatcher.setVolume((fet.vlm/100));
 
     if (boucle === false) {
