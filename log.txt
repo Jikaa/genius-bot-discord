@@ -3827,3 +3827,8 @@
 17/02/2021 00:32:51 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
 17/02/2021 00:38:24 : Réponse _play https://www.youtube.com/playlist?list=PLYxT_DUNJ7Vjd65ZvWnwztkXcUQB36e7 à Jimmy#1296
 17/02/2021 00:41:19 : Bot déconnecté
+17/03/2021 23:31:46 : Bot prêt
+17/03/2021 23:31:52 : Réponse _play https://www.youtube.com/watch?v=rCK-7Hki4II à Jimmy#1296
+17/03/2021 23:31:58 : Réponse _skip à Jimmy#1296
+17/03/2021 23:32:03 : Réponse _logout à Jimmy#1296
+17/03/2021 23:32:03 : Bot déconnecté
