@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const fs = require('fs');
 
 const prefix = process.env.prefix;
-const ownersID = ['223839985751556096'];
+const ownersID = ['223839985751556096', '886647428932055061'];
 const active = new Map();
 let sleepMode = false;
 
